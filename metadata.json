@@ -1,0 +1,6 @@
+{
+  "name": "Remix Disaster Dash",
+  "description": "An interactive 2D animated stickman survival game teaching disaster awareness across Earthquake, Flood, and Fire scenarios with Calm Mode support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
